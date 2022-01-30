@@ -10,15 +10,15 @@
 ## Programming Language
 
 * JAVA
-* Scala
+* [Scala](https://github.com/jhjhj0366/TIL/tree/main/scala)
 * JavaScript
 
 ## Web Developement
-* Spring
+* [Spring](https://github.com/jhjhj0366/TIL/tree/main/spring)
 
 
 ## Data Engineering
-* Kafka
+* [Kafka](https://github.com/jhjhj0366/TIL/tree/main/kafka)
 
 
 ## Books
