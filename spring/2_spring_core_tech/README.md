@@ -20,7 +20,7 @@
     * ResourceLoader
 
 
-2. Resource / Validation
+2. Resource / Validation 👉 [Link](https://github.com/jhjhj0366/TIL/blob/main/spring/2_spring_core_tech/2_resource_validation.md)
     * Resource 추상화
     * Validation 추상화
 
