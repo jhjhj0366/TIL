@@ -7,7 +7,7 @@
 
 
 ## 목차
-1. IoC 컨테이너와 빈
+1.  IoC 컨테이너와 빈 👉 [Link](https://github.com/jhjhj0366/TIL/blob/main/spring/2_spring_core_tech/1_IoC_container_and_bean.md)
     * 스프링 IoC 컨테이너와 빈
     * ApplicationContext와 다양한 빈 설정 방법
     * @Autowire
