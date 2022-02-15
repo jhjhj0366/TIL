@@ -24,7 +24,7 @@
     * Resource 추상화
     * Validation 추상화
 
-3. 데이터 바인딩
+3. 데이터 바인딩 👉 [Link](https://github.com/jhjhj0366/TIL/blob/main/spring/2_spring_core_tech/3_data_binding.md)
     * 데이터 바인딩 추상화 : PropertyEditor
     * 데이터 바인딩 추상화 : Converter 와 Formatter
 4. SpEL
