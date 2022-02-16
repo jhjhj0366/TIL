@@ -27,7 +27,9 @@
 3. 데이터 바인딩 👉 [Link](https://github.com/jhjhj0366/TIL/blob/main/spring/2_spring_core_tech/3_data_binding.md)
     * 데이터 바인딩 추상화 : PropertyEditor
     * 데이터 바인딩 추상화 : Converter 와 Formatter
-4. SpEL
+
+
+4. SpEL 👉 [Link](https://github.com/jhjhj0366/TIL/blob/main/spring/2_spring_core_tech/4_spring_expression_language.md)
     * SpEL(스프링 Expression Language)
 5. 스프링 AOP
     * 스프링 AOP : 개념 소개
