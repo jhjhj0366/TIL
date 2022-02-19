@@ -31,7 +31,10 @@
 
 4. SpEL 👉 [Link](https://github.com/jhjhj0366/TIL/blob/main/spring/2_spring_core_tech/4_spring_expression_language.md)
     * SpEL(스프링 Expression Language)
-5. 스프링 AOP
+
+
+
+5. 스프링 AOP 👉 [Link](https://github.com/jhjhj0366/TIL/blob/main/spring/2_spring_core_tech/5_spring_aop.md)
     * 스프링 AOP : 개념 소개
     * 스프링 AOP : 프록시 기반 AOP
     * 스프링 AOP : @AOP
